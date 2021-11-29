@@ -10,6 +10,7 @@
     "vite": "^2.6.4"
   },
   "dependencies": {
-    "aframe": "1.2.0"
+    "aframe": "1.2.0",
+    "aframe-look-at-component": "1.0.0"
   }
 }
